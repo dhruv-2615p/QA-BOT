@@ -28,4 +28,4 @@ How could it be implemented using LangChain or Google GenAI?
 ## 🔗 Related issues
 
 - Have you checked for existing issues?
-- https://github.com/dhruv-2615p/README.md
+- https://github.com/dhruv-2615p/QA-BOT/README.md
