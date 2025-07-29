@@ -6,16 +6,16 @@ Welcome to the **QA-BOT** repository! This document serves as the comprehensive 
 
 ## 📚 Table of Contents
 
-- [Introduction](#introduction)
-- [Features](#features)
-- [Installation](#installation)
-- [Cloning the Repository](#cloning-the-repository)
-- [Usage](#usage)
-- [Configuration](#configuration)
-- [Contributing](#contributing)
-- [Testing](#testing)
-- [License](#license)
-- [Support & Contact](#support--contact)
+- [Introduction](##introduction)
+- [Features](##features)
+- [Installation](##installation)
+- [Cloning the Repository](##cloning-the-repository)
+- [Usage](##usage)
+- [Configuration](##configuration)
+- [Contributing](##contributing)
+- [Testing](##testing)
+- [License](##license)
+- [Support & Contact](##support--contact)
 
 ---
 
