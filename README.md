@@ -63,7 +63,7 @@ To install and set up the project locally, follow these steps:
 To clone the repository to your local machine, use the following command in your terminal:
 
    ```bash
-   git clone https://github.com/dhruv-2615/QA-BOT.git
+   git clone https://github.com/dhruv-2615p/QA-BOT.git
    cd QA-BOT
    ```
 ---
@@ -119,7 +119,7 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 ## 💬 Support & Contact
 
 If you encounter any issues or have questions:
-- Open an [issue](https://github.com/dhruv-2615/QA-BOT/issues.md).
+- Open an [issue](https://github.com/dhruv-2615p/QA-BOT/issues.md).
 - Contact the maintainers directly via email or through GitHub discussions.
 
 Thank you for your interest in **QA-BOT**. We hope you find it useful and look forward to your contributions!
