@@ -6,16 +6,16 @@ Welcome to the **QA-BOT** repository! This document serves as the comprehensive 
 
 ## 📚 Table of Contents
 
-- [Introduction](##introduction)
-- [Features](##features)
-- [Installation](##installation)
-- [Cloning the Repository](##cloning-the-repository)
-- [Usage](##usage)
-- [Configuration](##configuration)
-- [Contributing](##contributing)
-- [Testing](##testing)
-- [License](##license)
-- [Support & Contact](##support--contact)
+- [Introduction](https://github.com/dhruv-2615p/QA-BOT?tab=readme-ov-file#-introduction)
+- [Features](https://github.com/dhruv-2615p/QA-BOT?tab=readme-ov-file#-features)
+- [Installation](https://github.com/dhruv-2615p/QA-BOT?tab=readme-ov-file#-installation)
+- [Cloning the Repository](https://github.com/dhruv-2615p/QA-BOT?tab=readme-ov-file#-cloning-the-repository)
+- [Usage](https://github.com/dhruv-2615p/QA-BOT?tab=readme-ov-file#-usage)
+- [Configuration](https://github.com/dhruv-2615p/QA-BOT?tab=readme-ov-file#-configuration)
+- [Contributing](https://github.com/dhruv-2615p/QA-BOT?tab=readme-ov-file#-contributing)
+- [Testing](https://github.com/dhruv-2615p/QA-BOT?tab=readme-ov-file#-testing)
+- [License](https://github.com/dhruv-2615p/QA-BOT?tab=readme-ov-file#-license)
+- [Support & Contact](https://github.com/dhruv-2615p/QA-BOT?tab=readme-ov-file#-support--contact)
 
 ---
 
