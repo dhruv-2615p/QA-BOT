@@ -2,7 +2,7 @@
 name: 🚀 Feature Request
 about: Suggest an idea for this project
 title: "[Enhancement] Feature name"
-labels: labels: ["feature", "discussion-needed"]
+labels: ["feature", "discussion-needed"]
 assignees: dhruv-2615p
 
 ---
