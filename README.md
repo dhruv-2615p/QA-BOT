@@ -119,7 +119,7 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 ## 💬 Support & Contact
 
 If you encounter any issues or have questions:
-- Open an [issue](https://github.com/dhruv-2615p/QA-BOT/issues.md).
+- Open an [issue](https://github.com/dhruv-2615p/QA-BOT/.github/ISSUE_TEMPLATE).
 - Contact the maintainers directly via email or through GitHub discussions.
 
 Thank you for your interest in **QA-BOT**. We hope you find it useful and look forward to your contributions!
